@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working at @allegro
+- 🔭 I’m currently working at [@allegro](https://github.com/allegro)
 - 👯 I’m a host of [Generic Talks Podcast](https://generictalks.com) (currently in Russian only)
 - 🤔 I’m a host of [Good reviewer - Bad reviewer Show on Youtube](https://www.youtube.com/channel/UC8_A5W8g7UV0pk0uL66iQAQ) (currently in Russian only)
 - 💬 Ask me about Go
