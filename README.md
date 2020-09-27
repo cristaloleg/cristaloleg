@@ -20,7 +20,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
 [![Hits](http://hits.dwyl.com/cristaloleg/cristaloleg.svg)](http://hits.dwyl.com/cristaloleg/cristaloleg) :eyes:
 
+Fancy stats:
+
+<img src="https://github-readme-stats.vercel.app/api?username=cristaloleg&show_icons=true" alt="logo" height="160" />
