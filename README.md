@@ -9,5 +9,3 @@
 - 💬 Ask me about Go
 - 📫 How to reach me: [Telegram](https://t.me/olegkovalov) or [Twitter](https://twitter.com/oleg_kovalov)
 - ⚡ Fun fact: I know all the memes.
-
-<img src="https://github-readme-stats.vercel.app/api?username=cristaloleg&show_icons=true" alt="logo" height="160" />
