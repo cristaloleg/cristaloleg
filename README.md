@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working at [@GogoApps](https://github.com/GogoApps)
-- 🔙 [@allegro](https://github.com/allegro) <- [@gig](https://github.com/gig) <- [@atlassian](https://github.com/atlassian) + [@spartez](https://github.com/spartez) <- [@amzn](https://github.com/amzn)
+- 😎 I’m currently working at :)
+- 🔙 [@GogoApps](https://github.com/GogoApps) <- [@allegro](https://github.com/allegro) <- 
+- 🕰️ [@gig](https://github.com/gig) <- [@atlassian](https://github.com/atlassian) + [@spartez](https://github.com/spartez) <- [@amzn](https://github.com/amzn)
 - 🚀 Making better open-soruce at [@cristalhq](https://github.com/cristalhq)
 - 🔥 Make your Go code better with [go-critic](https://github.com/go-critic/go-critic)
 - 👯 I’m a host of [Generic Talks Podcast](https://generictalks.com) (currently in Russian only)
