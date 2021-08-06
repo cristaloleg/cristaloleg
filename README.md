@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 😎 I’m currently working at :)
+- 😎 I’m currently working at [@brainly](https://github.com/brainly)
 - 🔙 [@GogoApps](https://github.com/GogoApps) <- [@allegro](https://github.com/allegro)
 - 🕰️ [@gig](https://github.com/gig) <- [@atlassian](https://github.com/atlassian) + [@spartez](https://github.com/spartez) <- [@amzn](https://github.com/amzn)
 - 🚀 Making better open source at [@cristalhq](https://github.com/cristalhq)
